@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "gtKT9Jo73Qg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alejo Garlati\\Documents\\Facultad\\Programación III\\Parcial2\\SimuladorDron\\SimuladorDron.ConsoleApp\\SimuladorDron.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alejo Garlati\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.9\\microsoft.extensions.configuration.10.0.9.nupkg.sha512",
+    "C:\\Users\\Alejo Garlati\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.9\\microsoft.extensions.configuration.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\Alejo Garlati\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.9\\microsoft.extensions.configuration.fileextensions.10.0.9.nupkg.sha512",
+    "C:\\Users\\Alejo Garlati\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.9\\microsoft.extensions.configuration.json.10.0.9.nupkg.sha512",
+    "C:\\Users\\Alejo Garlati\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Alejo Garlati\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.9\\microsoft.extensions.fileproviders.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\Alejo Garlati\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.9\\microsoft.extensions.fileproviders.physical.10.0.9.nupkg.sha512",
+    "C:\\Users\\Alejo Garlati\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.9\\microsoft.extensions.filesystemglobbing.10.0.9.nupkg.sha512",
+    "C:\\Users\\Alejo Garlati\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\Alejo Garlati\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.9\\microsoft.extensions.primitives.10.0.9.nupkg.sha512",
+    "C:\\Users\\Alejo Garlati\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

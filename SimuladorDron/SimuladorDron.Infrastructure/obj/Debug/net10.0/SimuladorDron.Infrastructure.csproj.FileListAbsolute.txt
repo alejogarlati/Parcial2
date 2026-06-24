@@ -1,0 +1,17 @@
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\bin\Debug\net10.0\SimuladorDron.Infrastructure.deps.json
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\bin\Debug\net10.0\SimuladorDron.Infrastructure.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\bin\Debug\net10.0\SimuladorDron.Infrastructure.pdb
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\bin\Debug\net10.0\SimuladorDron.Application.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\bin\Debug\net10.0\SimuladorDron.Domain.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\bin\Debug\net10.0\SimuladorDron.Domain.pdb
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\bin\Debug\net10.0\SimuladorDron.Application.pdb
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\SimuladorDron.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\SimuladorDron.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\SimuladorDron.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\SimuladorDron.Infrastructure.AssemblyInfo.cs
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\SimuladorDron.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\Simulado.2FC2641A.Up2Date
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\SimuladorDron.Infrastructure.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\refint\SimuladorDron.Infrastructure.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\SimuladorDron.Infrastructure.pdb
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\ref\SimuladorDron.Infrastructure.dll

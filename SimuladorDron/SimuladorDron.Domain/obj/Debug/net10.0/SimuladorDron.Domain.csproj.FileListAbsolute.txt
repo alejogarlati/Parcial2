@@ -1,0 +1,11 @@
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Domain\bin\Debug\net10.0\SimuladorDron.Domain.deps.json
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Domain\bin\Debug\net10.0\SimuladorDron.Domain.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Domain\bin\Debug\net10.0\SimuladorDron.Domain.pdb
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Domain\obj\Debug\net10.0\SimuladorDron.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Domain\obj\Debug\net10.0\SimuladorDron.Domain.AssemblyInfoInputs.cache
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Domain\obj\Debug\net10.0\SimuladorDron.Domain.AssemblyInfo.cs
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Domain\obj\Debug\net10.0\SimuladorDron.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Domain\obj\Debug\net10.0\SimuladorDron.Domain.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Domain\obj\Debug\net10.0\refint\SimuladorDron.Domain.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Domain\obj\Debug\net10.0\SimuladorDron.Domain.pdb
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Domain\obj\Debug\net10.0\ref\SimuladorDron.Domain.dll

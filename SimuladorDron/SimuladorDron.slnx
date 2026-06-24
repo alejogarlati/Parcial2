@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SimuladorDron.Application/SimuladorDron.Application.csproj" />
+  <Project Path="SimuladorDron.ConsoleApp/SimuladorDron.ConsoleApp.csproj" />
+  <Project Path="SimuladorDron.Domain/SimuladorDron.Domain.csproj" />
+  <Project Path="SimuladorDron.Infrastructure/SimuladorDron.Infrastructure.csproj" />
+</Solution>
