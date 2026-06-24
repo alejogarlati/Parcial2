@@ -13,3 +13,4 @@ C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDr
 C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Application\obj\Debug\net10.0\refint\SimuladorDron.Application.dll
 C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Application\obj\Debug\net10.0\SimuladorDron.Application.pdb
 C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Application\obj\Debug\net10.0\ref\SimuladorDron.Application.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Application\obj\Debug\net10.0\SimuladorDron.Application.sourcelink.json

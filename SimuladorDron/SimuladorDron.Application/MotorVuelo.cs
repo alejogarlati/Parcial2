@@ -13,8 +13,8 @@ namespace SimuladorDron.Application
         private readonly int[] _desplazamientoColumna = { -1, 1, -1, 1, -2, 2, -2, 2 };
 
         private int _maxPasosEncontrados = 0;
-        private int[,] _mejorTablero;
-        private List<(int X, int Y)> _mejorTraza;
+        private int[,]? _mejorTablero;
+        private List<(int X, int Y)>? _mejorTraza;
 
         public (int[,] MatrizRecorrido, List<(int X, int Y)> Traza, bool Exito) ExplorarTerreno(int n, int inicioX, int inicioY)
         {
@@ -43,7 +43,7 @@ namespace SimuladorDron.Application
 
             if (!exito && _mejorTraza != null)
             {
-                return (_mejorTablero, _mejorTraza, false);
+                return (_mejorTablero!, _mejorTraza!, false);
             }
 
             return (tablero, traza, exito);

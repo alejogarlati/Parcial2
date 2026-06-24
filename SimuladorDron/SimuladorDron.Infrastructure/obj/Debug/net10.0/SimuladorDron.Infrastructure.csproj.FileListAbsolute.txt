@@ -15,3 +15,4 @@ C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDr
 C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\refint\SimuladorDron.Infrastructure.dll
 C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\SimuladorDron.Infrastructure.pdb
 C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\ref\SimuladorDron.Infrastructure.dll
+C:\Users\Alejo Garlati\Documents\Facultad\Programación III\Parcial2\SimuladorDron\SimuladorDron.Infrastructure\obj\Debug\net10.0\SimuladorDron.Infrastructure.sourcelink.json

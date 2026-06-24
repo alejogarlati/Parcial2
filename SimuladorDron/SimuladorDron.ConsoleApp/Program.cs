@@ -24,7 +24,7 @@ namespace SimuladorDron.ConsoleApp
             IConfiguration configuration = builder.Build();
 
             // Usamos la cadena de Admin por defecto para poder crear la BD
-            string connectionString = configuration.GetConnectionString("AdminConnection");
+            string? connectionString = configuration.GetConnectionString("AdminConnection");
 
             if (string.IsNullOrEmpty(connectionString))
             {
